@@ -40,7 +40,7 @@ HTML • CSS • JavaScript • Web Speech API • LocalStorage
 ![Register](register.png)
 
 ### 🛍️ Dashboard
-![ChatBot UI](chatbot.png)
+![ChatBot UI](Chatbot.png)
 
 ---
 

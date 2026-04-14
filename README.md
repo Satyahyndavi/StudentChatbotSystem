@@ -95,14 +95,7 @@ Bot will respond automatically.
 
 ## 👨‍💻 Author
 
-Developed by: **Your Name**  
-Project Type: Beginner Web Development Project  
+Developed by: **B.Satya Hyndavi**  
 
----
 
-## ⭐ Support
 
-If you like this project:
-- Give ⭐ on GitHub  
-- Share with friends  
-- Use it in your portfolio 🚀

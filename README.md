@@ -33,16 +33,14 @@ HTML • CSS • JavaScript • Web Speech API • LocalStorage
 
 ## 📸 Screenshots
 
-Add your project screenshots here 👇
+### 🔐 Login Page
+![Login](login.png)
 
-### 🔹 Login Page
-![Login Page](images/login.png)
+### 📝 Register Page
+![Register](register.png)
 
-### 🔹 Register Page
-![Register Page](images/register.png)
-
-### 🔹 Chatbot UI
-![Chatbot UI](images/chatbot.png)
+### 🛍️ Dashboard
+![ChatBot UI](chatbot.png)
 
 ---
 
